@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/First-React-Deployment-Rosali/static/css/main.e6c13ad2.css",
+    "main.js": "/First-React-Deployment-Rosali/static/js/main.89ee10e3.js",
+    "static/js/787.89383c05.chunk.js": "/First-React-Deployment-Rosali/static/js/787.89383c05.chunk.js",
+    "index.html": "/First-React-Deployment-Rosali/index.html",
+    "main.e6c13ad2.css.map": "/First-React-Deployment-Rosali/static/css/main.e6c13ad2.css.map",
+    "main.89ee10e3.js.map": "/First-React-Deployment-Rosali/static/js/main.89ee10e3.js.map",
+    "787.89383c05.chunk.js.map": "/First-React-Deployment-Rosali/static/js/787.89383c05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.89ee10e3.js"
+  ]
+}
